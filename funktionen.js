@@ -12,11 +12,11 @@
 //   console.log(typeof a);
 //   console.log(a);
 
-/* Arrays */
+/* Arrays */   //!!!!!!!!!?????????????????
 // Navigation über INDEX
 
 // let arr;
-// // arr = new Array();  // Möglichkeit
+// !!!!!// arr = new Array();  // Möglichkeit
 // arr = [false,true,true,false];
 // console.log(arr);
 // console.log(arr[0]);
@@ -65,14 +65,14 @@
 // DOM  --> Modell der HTMl-Struktur
 // DOM --> Document Object Model
 // DOM --> nach dem Parsen / Laden der HTML-Seite  
-// console.log(document);
-// console.log(document.body);
-// console.log(document.body.children);
-// console.log(document.body.children[0]);
-// console.log(document.body.children[0].innerHTML);
-// document.body.children[0].innerText = "Hi";
-// console.log(document.getElementById("test"));
-// document.getElementById("test").innerHTML = "Hallo Text!"
+console.log(document);
+console.log(document.body);
+console.log(document.body.children);
+console.log(document.body.children[0]);
+console.log(document.body.children[0].innerHTML);
+document.body.children[0].innerText = "Hi";
+console.log(document.getElementById("test"));
+document.getElementById("test").innerHTML = "Hallo Text!"
 
 /* ENTSCHEIDUNGSSTRUKTUREN | CONTROL FLOW*/
 
